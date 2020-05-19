@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Anand",
+      "lastName": "Prabhu",
+      "age": 25,
+      "mobileNumber": "9989568956",
+      "email": "anand@gmail.com",
+      "password": "anand@123"
+    },
+    {
+      "id": 2,
+      "firstName": "Ankit",
+      "lastName": "Singh",
+      "age": 26,
+      "mobileNumber": "9099568956",
+      "email": "ankit@yahoo.com",
+      "password": "ankit@123"
+    },
+    {
+      "firstName": "Samib",
+      "lastName": "s",
+      "age": 21,
+      "mobileNumber": "9876543210",
+      "email": "aaaa@gmail.com",
+      "password": "password@123",
+      "id": 3
+    }
+  ]
+}
